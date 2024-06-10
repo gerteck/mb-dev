@@ -1,6 +1,6 @@
 {
-  "baseUrl": "",
-  "titlePrefix": "",
+  "baseUrl": "/mb-dev",
+  "titlePrefix": "mb-dev-gerteck",
   "titleSuffix": "",
   "ignore": [
     "_markbind/layouts/*",
@@ -16,11 +16,13 @@
   "pagesExclude": ["node_modules/*"],
   "pages": [
     {
-      "src": "index.md"
+      "src": "index.md",
+      "title": "Home"
     },
     {
       "glob": ["**/index.md", "**/*.md"]
     }
+
   ],
   "deploy": {
     "message": "Site Update."

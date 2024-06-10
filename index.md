@@ -1,8 +1,8 @@
 <frontmatter>
   title: Home Page
   layout: default.md
-  pageNav: 4
-  pageNavTitle: "Topics"
+  pageNav: 5
+  pageNavTitle: "Index Page"
 </frontmatter>
 
 <br>
@@ -13,6 +13,8 @@
     <p class="lead">Let's get started...</p>
   </div>
 </div>
+
+Hello!
 
 ---
 
