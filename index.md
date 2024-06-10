@@ -7,24 +7,26 @@
 
 <br>
 
-<div class="bg-primary text-white px-2 py-5 mb-4">
+<div class="bg-primary text-white px-2 py-3 mb-3">
   <div class="container">
-    <h1 class="display-5 no-index">Great!<br>You've just initialized a MarkBind site.</h1>
-    <p class="lead">Let's get started...</p>
+    <h1 class="display-5 no-index">You've stumbled upon the best diving blog!</h1> 
+    <p class="lead">(self-proclaimed)</p>
   </div>
 </div>
 
-Hello!
+<div align="center">
+  <pic src="../images/fishes.jpg" width="300" alt="Clownfishes" lazy>
+    Clownfishes
+  </pic>
+</div> 
 
 ---
 
 ## What just happened?
 
-You have just initialized a _default_ MarkBind site! It is equipped with a set of core features, including site and page navigation. Additionally, we have included some convenient links to our User Guide, to help you get started quickly and easily.
+You have just stumbled upon the _best_ MarkBind generated diving site! It is equipped with a set of core features, including site and page navigation. Additionally, we have included some convenient links to MarkBind's User Guide, in case you want to build your own, and get started quickly and easily.
 
 <box type="tip">
-
-If you were intending to convert an existing GitHub wiki or a docs folder into MarkBind, use the `--convert` flag instead. See <a href="https://markbind.org/userGuide/markBindInTheProjectWorkflow.html#converting-existing-project-documentation-wiki" target="_blank">User Guide: MarkBind in the Project Workflow</a> for more information.
 
 If you want to start with a <tooltip content="i.e. without any content">_minimal_</tooltip> template instead, use the `--template` flag with the "minimal" option to initialize a minimal site instead of the default. See <a href="https://markbind.org/userGuide/templates.html" target="_blank">User Guide: Templates</a> for more information.
 
@@ -50,7 +52,7 @@ If you are interested in contributing to MarkBind, you can refer to our <a href=
 
 </box>
 
-<panel header="**Good starting points in our User Guide**" expanded no-close>
+<panel header="**Good starting points in our User Guide**" expanded minimized>
 
 ##### **User Guide: Authoring Contents**
 

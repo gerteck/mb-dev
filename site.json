@@ -1,6 +1,6 @@
 {
   "baseUrl": "/mb-dev",
-  "titlePrefix": "mb-dev-gerteck",
+  "titlePrefix": "mb-dev",
   "titleSuffix": "",
   "ignore": [
     "_markbind/layouts/*",
@@ -26,5 +26,11 @@
   ],
   "deploy": {
     "message": "Site Update."
+  },
+
+
+  "style": {
+    "bootstrapTheme": "bootswatch-cerulean"
   }
+  
 }
