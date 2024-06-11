@@ -16,7 +16,7 @@
 
 <div align="center">
   <pic src="./images/fishes.jpg" width="300" alt="Fishes" lazy>
-    Clownfishes
+    Clownfishes bing-chilling!
   </pic>
 </div> 
 
