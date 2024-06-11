@@ -8,6 +8,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "README.md",
+      "headings": {
+        "markbind-website-test-repository": "Markbind Website Test Repository",
+        "introduction": "Introduction",
+        "prerequisites": "Prerequisites",
+        "installation": "Installation",
+        "running-the-project": "Running the Project",
+        "project-structure": "Project Structure",
+        "license": "License"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/tioman.md",
       "title": "Tioman Island",
       "headings": {
