@@ -8,10 +8,17 @@
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic1.md",
-      "title": "Topic 1",
+      "src": "contents/tioman.md",
+      "title": "Tioman Island",
       "headings": {
-        "topic-1": "Topic 1"
+        "tioman-island-diving-adventure": "Tioman Island Diving Adventure",
+        "introduction-to-tioman-island": "Introduction to Tioman Island",
+        "main-town-tekek": "Main Town: Tekek",
+        "beach-towns": "Beach Towns",
+        "b-and-amp-j-dive-resort-at-abc": "B&amp;J Dive Resort at ABC",
+        "padi-open-water-course": "PADI Open Water Course",
+        "marine-life-at-tioman-island": "Marine Life at Tioman Island",
+        "conclusion": "Conclusion"
       },
       "headingKeywords": {}
     },
@@ -36,6 +43,14 @@
       "title": "Topic 3b",
       "headings": {
         "topic-3b": "Topic 3b"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic4.md",
+      "title": "Topic 4",
+      "headings": {
+        "topic-4": "Topic 4"
       },
       "headingKeywords": {}
     },
