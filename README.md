@@ -50,6 +50,3 @@ The project structure follows the standard Markbind setup. Key directories and f
 - `package.json`: Project metadata and npm scripts.
 - `README.md`: This file.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
