@@ -9,6 +9,9 @@ jobs:
     name: test
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: read
+      pages: write
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
