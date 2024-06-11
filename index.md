@@ -10,7 +10,7 @@
 <div class="bg-primary text-white px-2 py-3 mb-3">
   <div class="container">
     <h1 class="display-5 no-index">You've stumbled upon the best diving blog!</h1> 
-    <p class="lead">(self-proclaimed)</p>
+    <p class="lead">(**self-proclaimed)</p>
   </div>
 </div>
 
