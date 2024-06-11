@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <pic src="../images/fishes.jpg" width="300" alt="Clownfishes" lazy>
+  <pic src="./images/fishes.jpg" width="300" alt="Clownfishes" lazy>
     Clownfishes
   </pic>
 </div> 
