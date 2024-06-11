@@ -32,6 +32,10 @@ If you want to start with a <tooltip content="i.e. without any content">_minimal
 
 </box>
 
+<panel header="Check out Tioman Island!">
+  <include src="contents/tioman.md">
+</panel>
+
 ---
 
 ## Navigating this site
