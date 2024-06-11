@@ -7,9 +7,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: test
-    permissions: 
-      contents: write
-      pages: write
+    # permissions: 
+    #   contents: write
+    #   pages: write
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
