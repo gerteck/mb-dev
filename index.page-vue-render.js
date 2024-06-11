@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"bg-primary text-white px-2 py-3 mb-3"},[_c('div',{staticClass:"container"},[_c('h1',{staticClass:"display-5 no-index",attrs:{"id":"you-ve-stumbled-upon-the-best-diving-blog"}},[_v("You've stumbled upon the best diving blog!"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#you-ve-stumbled-upon-the-best-diving-blog","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',{staticClass:"lead"},[_v("(self-proclaimed)")])])])}
+with(this){return _c('div',{staticClass:"bg-primary text-white px-2 py-3 mb-3"},[_c('div',{staticClass:"container"},[_c('h1',{staticClass:"display-5 no-index",attrs:{"id":"you-ve-stumbled-upon-the-best-diving-blog"}},[_v("You've stumbled upon the best diving blog!"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#you-ve-stumbled-upon-the-best-diving-blog","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',{staticClass:"lead"},[_v("(**self-proclaimed)")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"what-just-happened"}},[_v("What just happened?"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what-just-happened","onclick":"event.stopPropagation()"}})])}
