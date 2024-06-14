@@ -20,6 +20,13 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/perhentianIslands.md",
+      "headings": {
+        "perhentian-islands-diving-adventure": "Perhentian Islands Diving Adventure"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/tioman.md",
       "title": "Tioman Island",
       "headings": {
@@ -31,14 +38,6 @@
         "padi-open-water-course": "PADI Open Water Course",
         "marine-life-at-tioman-island": "Marine Life at Tioman Island",
         "conclusion": "Conclusion"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "contents/topic2.md",
-      "title": "Topic 2",
-      "headings": {
-        "topic-2": "Topic 2"
       },
       "headingKeywords": {}
     },
